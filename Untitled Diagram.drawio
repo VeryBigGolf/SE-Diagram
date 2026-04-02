@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="_OPaNFYz5H4E609ePpy-">
-    <mxGraphModel dx="525" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1109" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -262,6 +262,18 @@
         </mxCell>
         <mxCell id="kRIYDFyhxKw78mP3M7pP-79" parent="1" style="text;html=1;align=left;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;" value="+ addRegistration(registration)&lt;div&gt;+ getRegistration(): list of Registration&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="150" x="280" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="kRIYDFyhxKw78mP3M7pP-80" parent="1" style="text;html=1;align=left;fontFamily=Helvetica;fontSize=9;fontColor=default;labelBackgroundColor=default;" value="&lt;div&gt;+ getRunners(runnerType,&lt;/div&gt;&lt;div&gt;runningPackage): list of Registration&lt;/div&gt;&lt;div&gt;+ getShirtOrders(shirtSize): list of&lt;/div&gt;&lt;div&gt;Registration&lt;/div&gt;&lt;div&gt;+ getCurrentCapacity(): int&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="140" x="60" y="1780" as="geometry" />
+        </mxCell>
+        <mxCell id="kRIYDFyhxKw78mP3M7pP-81" parent="1" style="text;html=1;align=center;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;" value="&lt;b&gt;&amp;lt;&amp;lt;Entity&amp;gt;&amp;gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Running Event&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="295" y="1890" as="geometry" />
+        </mxCell>
+        <mxCell id="kRIYDFyhxKw78mP3M7pP-83" parent="1" style="text;html=1;align=left;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;" value="&lt;p style=&quot;margin: 0px;&quot;&gt;- authorizedNote&lt;/p&gt;&lt;p style=&quot;margin: 0px;&quot;&gt;- facultyBankAccount&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="286.9" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="kRIYDFyhxKw78mP3M7pP-84" parent="1" style="text;html=1;align=left;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;" value="&lt;p style=&quot;margin: 0px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;+ addRunningEvent(runningEvent): void&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;+ getRunningEvents(): list of RunningEvent&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="286.9" y="1970" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
